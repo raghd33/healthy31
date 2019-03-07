@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/Add"
+        android:layout_width="147dp"
+        android:layout_height="62dp"
+        android:text="Add"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="644dp" />27dp"
+        tools:layout_editor_absoluteY="641dp" />
+
+    <ListView
+        android:layout_width="432dp"
+        android:layout_height="475dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="162dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="242dp"
+        android:layout_height="64dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="entre food"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="644dp" />
+
+
+
+</android.support.constraint.ConstraintLayout>
